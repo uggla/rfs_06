@@ -7,11 +7,10 @@ fn imil_say(sentence: String) -> String {
 }
 
 fn main() {
-    let msg = String::from("RFS rules !");
+    let msg1 = String::from("RFS rules !");
 
-    let msg = imil_say(msg);
+    let msg2 = imil_say(msg1);
 
     // Say it again loud !
-    imil_say(msg);
-    //        ^--- le msg ici est celui de la ligne 12
+    imil_say(msg2);
 }
