@@ -29,3 +29,5 @@ Ce repository contient des exemples de code pour bien comprendre la notion de bo
                                &str quand on déréférence un String.
 ```
 
+
+N'hésitez pas à créer des issues si vous avez des questions ou une PR si il y a des erreurs.

@@ -10,7 +10,7 @@
 // https://doc.rust-lang.org/src/alloc/string.rs.html#2408 --> mais quand même en regardant un peu sous le capot
 // le src de Deref pour String, on voit bien que la method deref renvoie un &str.  ;)
 
-// Il se pourrait aussi de String soit en fait un Vec de bytes.... ;)
+// Il se pourrait aussi que String soit en fait un Vec de bytes.... ;)
 
 fn imil_say(sentence: &str) {
     //                  ^-- on change la signature de la fn pour dire
