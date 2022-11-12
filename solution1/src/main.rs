@@ -3,7 +3,7 @@
 fn imil_say(sentence: String) -> String {
     println!("{}", sentence);
     sentence
-    // ^-- pas de ; pour return implicit.
+    // ^-- pas de ; pour return implicite.
 }
 
 fn main() {

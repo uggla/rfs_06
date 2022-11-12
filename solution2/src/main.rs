@@ -1,5 +1,5 @@
-// Solution 2, on clone la String. Ici peu de consequences
-// mais impact perf si il y a beaucoup de données.
+// Solution 2, on clone la String. Ici peu de conséquences
+// mais impact perf s'il y a beaucoup de données.
 // Ex clone d'un Vec de 10M d'entrées...
 
 fn imil_say(sentence: String) {

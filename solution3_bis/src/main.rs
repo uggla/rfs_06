@@ -14,8 +14,8 @@
 
 fn imil_say(sentence: &str) {
     //                  ^-- on change la signature de la fn pour dire
-    //                  que l'on veut un une reference sur un slice (&str)
-    //                  et la ca marche car le &msg renvoie un &str pour la raison ci-dessus.
+    //                  que l'on veut un une référence sur un slice (&str)
+    //                  et la ça marche, car le &msg renvoie un &str pour la raison ci-dessus.
     println!("{}", sentence);
 }
 

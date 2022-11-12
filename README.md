@@ -30,4 +30,4 @@ Ce repository contient des exemples de code pour bien comprendre la notion de bo
 ```
 
 
-N'hésitez pas à créer des issues si vous avez des questions ou une PR si il y a des erreurs.
+N'hésitez pas à créer des issues si vous avez des questions ou une PR s'il il y a des erreurs.

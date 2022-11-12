@@ -11,7 +11,7 @@ fn main() {
     // Say it again loud !
     imil_say(msg);
     // ^-- le problème est le même que dans rfs_05.
-    // msg est moved (perte de l'ownership) dans la fonction imil_say() lors du premiers appel.
+    // msg est moved (perte de l'ownership) dans la fonction imil_say() lors du premier appel.
     // la variable msg ne peut donc plus être utilisée pour le second appel de la fonction.
 }
 
